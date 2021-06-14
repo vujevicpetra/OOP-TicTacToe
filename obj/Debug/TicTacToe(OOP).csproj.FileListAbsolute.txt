@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\bin\Debug\TicTacToe(OOP).exe.config
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\bin\Debug\TicTacToe(OOP).exe
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\bin\Debug\TicTacToe(OOP).pdb
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe(OOP).csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe_OOP_.Form1.resources
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe_OOP_.Properties.Resources.resources
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe(OOP).csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe(OOP).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe(OOP).exe
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe(OOP).pdb
+C:\Users\Acer\source\repos\TicTacToe(OOP)\TicTacToe(OOP)\obj\Debug\TicTacToe_OOP_.Form2.resources
